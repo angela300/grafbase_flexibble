@@ -1,4 +1,4 @@
-This is a starter code for buiding a Dribble clone with NextJS, and the Grafbase Api. Only note that the grafbase databse is now deprecated as of 15-12-2023 and you will have to intergrate other databases such as PostgreSQL, MongoDB, etc
+This is a starter code for buiding a Dribble clone with NextJS, and the Grafbase Api. Only note that the grafbase database is now deprecated as of 15-12-2023 and you will have to intergrate other databases such as PostgreSQL, MongoDB, etc
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
